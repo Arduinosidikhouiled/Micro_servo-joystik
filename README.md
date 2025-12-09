@@ -1,2 +1,2 @@
-# Micro_servo
+# Micro_servo-joystik
 Micro_servo-joystik
